@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aldo Jacobs</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldojacobs29" alt="aldojacobs29" /></a> </p>
 
 - 📫 How to reach me **aldojacobsten2@gmail.com**
 
