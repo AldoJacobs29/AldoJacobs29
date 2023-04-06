@@ -7,9 +7,11 @@
 
 - 👨‍💻 My Portofolio : [https://aldojacobs-portofolio.netlify.app/](https://aldojacobs-portofolio.netlify.app/)
 
-- 📫 Email : **aldojacobsten2@gmail.com**
+- 📫 My Email : **aldojacobsten2@gmail.com**
 
-- ⚡ Fun fact **Interested to UI/UX & Front-End Web Programmers**
+- 📄 My experiences(CV) [https://drive.google.com/file/d/162JrzKGizBRLG7DRiO54ATHzVYT01ZsX/view?usp=drivesdk](https://drive.google.com/file/d/162JrzKGizBRLG7DRiO54ATHzVYT01ZsX/view?usp=drivesdk)
+
+- ⚡ My Interest(s) **UI/UX ,Web Designer & Front-End Web Programmers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
